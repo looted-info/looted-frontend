@@ -28,7 +28,7 @@ Logo.propTypes = {
 };
 
 Logo.defaultProps = {
-  height: height
+  height,
 };
 
 export default Logo;

@@ -1,9 +1,9 @@
 const logo = {
-  height: '50px'
-}
+  height: '50px',
+};
 
 const common = {
-  logo
+  logo,
 };
 
 export default {
